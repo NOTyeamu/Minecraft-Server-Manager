@@ -21,7 +21,7 @@ A modern and convenient program for managing your Minecraft servers. Forget abou
 
 Go to the Releases section on this site (in the column on the right).
 
-Download the MC-Server-Manager.exe file.
+Download the MCSM.exe file.
 
 Place it in a convenient location on your computer.
 
