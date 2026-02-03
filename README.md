@@ -9,7 +9,7 @@ A modern and convenient program for managing your Minecraft servers. Forget abou
 
 🚀 One-click launch: Manage your server through convenient "Start" and "Restart" buttons.
 
-📝 Built-in editor: Edit server.properties and other configs right in the application. No more opening files through Notepad.
+📝 Built-in editor: Edit server.properties and other configs right in the program. No more opening files through Notepad.
 
 💻 Smart console: Full command input and real-time viewing of server logs.
 
@@ -53,7 +53,7 @@ Installed Java (the version required for your Minecraft server).
 
 🚀 Запуск в один клик: Управляйте сервером через удобные кнопки "Запустить" и "Перезагрузить".
 
-📝 Встроенный редактор: Редактируйте server.properties и другие конфиги прямо в приложении. Больше не нужно открывать файлы через блокнот.
+📝 Встроенный редактор: Редактируйте server.properties и другие конфиги прямо в программе. Больше не нужно открывать файлы через блокнот.
 
 💻 Умная консоль: Полноценный ввод команд и просмотр логов сервера в реальном времени.
 
