@@ -1,4 +1,4 @@
-English language
+🇺🇸 English language
 
 🎮 Minecraft Server Manager
 
@@ -36,7 +36,7 @@ Installed Java (the version required for your Minecraft server).
 
 ❤️ Developed with love for Minecraft server administrators.
 
-Русский язык
+🇷🇺 Русский язык
 
 🎮 Minecraft Server Manager
 
