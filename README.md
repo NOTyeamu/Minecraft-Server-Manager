@@ -37,7 +37,8 @@ Installed Java (the version required for your Minecraft server).
 
 ❤️ Developed with love for Minecraft server administrators.
 
-<img width="1100" height="700" alt="image" src="https://github.com/user-attachments/assets/597802e2-7831-4bd4-abfc-ccf97c072542" />
+<img width="1099" height="697" alt="image" src="https://github.com/user-attachments/assets/d9ddb6d9-a8e7-4c18-a6d6-4066988af9de" />
+
 
 
 
@@ -80,6 +81,7 @@ Installed Java (the version required for your Minecraft server).
 
 ❤️ Разработано с любовью для администраторов Minecraft серверов.
 
-<img width="1096" height="696" alt="image" src="https://github.com/user-attachments/assets/c34e48cc-8318-4405-92af-06b13844aa48" />
+<img width="1093" height="695" alt="image" src="https://github.com/user-attachments/assets/8e3a49c1-4eef-41d2-81b9-f06fe8b04631" />
+
 
 
