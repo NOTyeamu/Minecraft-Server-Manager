@@ -7,9 +7,13 @@ A modern and convenient program for managing your Minecraft servers. Forget abou
 ✨ What can the program do?
 
 🚀 One-click launch: Manage your server through convenient "Start" and "Restart" buttons.
+
 📝 Built-in editor: Edit server.properties and other configs right in the application. No more opening files through Notepad.
+
 💻 Smart console: Full command input and real-time viewing of server logs.
+
 📂 File manager: Quickly switch between server files in the left panel.
+
 🌙 Dark theme: A stylish interface that protects your eyes.
 
 📥 How to download and run
